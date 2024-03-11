@@ -1,1 +1,25 @@
-
+{
+    "data": [
+     {
+    
+        "whichads": "admob",
+        "whichbottomads": "banner",
+        "google_native": "/6499/example/native",
+        "google_custom_native": "/6499/example/native",
+        "google_banner": "/6499/example/banner",
+        "google_interstitial": "/6499/example/interstitial",
+        "google_appopen": "/6499/example/app-open",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "Adsshowornot": false,
+        "native_type_layout": "full",
+        "nativefull": "match",
+        "HowmanyNextClick": 0,
+        "HowManyBackClick": 0,
+        "ButtonColorAds": "#12A280",
+        "ButtonTextColor": "#ffffff",
+        "PolicyUrl": "https://gbtool2024.blogspot.com/2024/02/gbtool2024.html"
+      }
+    ]
+  }
